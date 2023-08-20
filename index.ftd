@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /Swapnendu-Portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -42,7 +42,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Swapnendu003
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -69,17 +69,17 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Swapnendu Banerjee,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Backend
+secondTitle: Developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: I make some funtional REST APIs which makes a frontend developer's life easy.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -91,11 +91,11 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: swaps.b003@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: swap.b003
 isNewTab: true
 
 -- end: ftd.row
@@ -108,23 +108,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/swapnendu-banerjee-36ba06219/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/SwapnenduB426
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Swapnendu003
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/swapno_banerjee
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:swaps.b003@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -170,7 +170,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Swapnendu Banerjee,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
